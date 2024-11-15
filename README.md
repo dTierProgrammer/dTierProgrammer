@@ -1,0 +1,3 @@
+- acc for personal stuff
+- learning: java (in school), python (by self)
+- yea
